@@ -3,11 +3,7 @@ title:               Woojun Lee
 tagline:             'Code study'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://wjleekr927.github.io/
-<<<<<<< HEAD
 baseurl:             ''
-=======
-baseurl:             ""
->>>>>>> b66f3c18297f2a5a44be2e5879bc8f4f065e3099
 paginate:            5
 permalink:           pretty
 
