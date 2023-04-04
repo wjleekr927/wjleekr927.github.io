@@ -4,7 +4,7 @@ tagline:             'Code study'
 description:         '시도 + ing'
 url:                 https://wjleekr927.github.io/
 baseurl:             ''
-paginate:            1
+paginate:            3
 permalink:           pretty
 
 # About/contact
