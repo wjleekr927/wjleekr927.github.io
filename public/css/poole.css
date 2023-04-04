@@ -60,14 +60,14 @@ html {
 
 body {
   color: #fff;
-  background-color: #515151;
+  background-color: #022050;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #022050;
+  color:#515151;
   text-decoration: none;
 }
 a strong {
