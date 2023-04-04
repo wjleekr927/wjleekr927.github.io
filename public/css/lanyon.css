@@ -217,8 +217,8 @@ a.sidebar-nav-item:focus {
   display: flex;
   align-items: center;
   padding: .25rem .75rem;
-  color: #505050;
-  background-color: #fff;
+  color: #D9D9D9;
+  background-color: #505050;
   border-radius: .25rem;
   cursor: pointer;
 }
